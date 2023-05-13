@@ -20,6 +20,6 @@ In this scenario created by Got It Ops team, we are to investigate the reasons b
 
 ## Contact
 
-Hung Pham
-Github: @mypham14
-Linkedin: 
+Pham Quoc Hung
+Github: [@phamquochung279](https://github.com/phamquochung279)
+Linkedin: [@phamquoc-hung](https://www.linkedin.com/in/pham-quochung/)
