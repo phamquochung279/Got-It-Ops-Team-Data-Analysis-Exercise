@@ -1,6 +1,6 @@
 # Got It Ops Team's Exercise
 
-PhotoStudy is a product made by Got It, Inc. that allows students to seek help from veteran tutors with their homework.
+PhotoStudy is a product created by Got It, Inc. in 2011. It allows students to seek help from veteran tutors all around the world with their homework problems.
 
 ## Description
 
