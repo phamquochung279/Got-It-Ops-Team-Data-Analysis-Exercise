@@ -8,27 +8,16 @@ In this scenario created by Got It Ops team, we are to investigate the reasons b
 
 ## Tools Used
 
-- Microsoft Excel 2016
-- Microsoft Powerpoint 2016
+- Microsoft Excel
+- Microsoft Powerpoint
 
 ## Getting Started
 
-Instructions on how to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+- Install Microsoft Office 2016.
+- Open 'Got It Exercise' file in Excel
 
-Say what the step will be
-
-## Usage
-
-Add any notes about how to use the system.
-
-## Contributing
+## Contact
 
 Contributions are always welcome!
