@@ -20,4 +20,6 @@ In this scenario created by Got It Ops team, we are to investigate the reasons b
 
 ## Contact
 
-Contributions are always welcome!
+Hung Pham
+Github: @mypham14
+Linkedin: 
