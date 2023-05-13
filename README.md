@@ -6,8 +6,8 @@ PhotoStudy is a product made by Got It, Inc. that allows students to seek help f
 
 ## Tools Used
 
-- Microsoft Excel
-- Microsoft Powerpoint
+- Microsoft Excel 2016
+- Microsoft Powerpoint 2016
 
 ## Getting Started
 
