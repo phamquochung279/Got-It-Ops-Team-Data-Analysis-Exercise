@@ -1,6 +1,6 @@
 # Got It Ops Team's Data Analysis Exercise
 
-![alt text]([http://url/to/img.png](https://d1iv5z3ivlqga1.cloudfront.net/wp-content/uploads/2020/04/29161242/1DciPJwS6vFO-J028fIMQ8A.png))
+![image](https://github.com/phamquochung279/Got-It-Ops-Team-Data-Analysis-Exercise/assets/39203225/336785c2-0d74-4b4b-9d03-8f5cd586078c)
 
 ## Introduction
 
@@ -21,20 +21,15 @@ Disclaimer: For confidentiality purposes, this analysis is based on an imaginary
 - Conducted correlation analysis with CORREL function and trendline equations on scatter charts <br />
 
 2) Microsoft Powerpoint <br />
-- Initial Hypotheses & Data Requirement <br />
-Pre-analysis speculations, and data needed to confirm or falsify each of them. <br />
-- General Analysis <br />
-A quick look at tutors' number of problems & total login duration of each week in October. <br />
-- Correlation Analysis <br />
-Measuring relationships between Week 4's Average Rating and all variables - Expert Rank, Login Duration, and Total Problems. <br />
-- Further Investigation <br />
-Some fascinating insights on Expert Rank and Week 4's Total Problems - the 2 variables most strongly linked to Average Rating. <br />
-- Initiatives <br />
-With our understanding of the PhotoStudy system and the analysis results, we proposed a few action items to Got It Ops team. <br />
+- Initial Hypotheses & Data Requirement: Pre-analysis speculations, and data needed to confirm or falsify each of them. <br />
+- General Analysis: A quick look at tutors' number of problems & total login duration of each week in October. <br />
+- Correlation Analysis: Measuring relationships between Week 4's Average Rating and all variables - Expert Rank, Login Duration, and Total Problems. <br />
+- Further Investigation: Some fascinating insights on Expert Rank and Week 4's Total Problems - the 2 variables most strongly linked to Average Rating. <br />
+- Initiatives: With our understanding of the PhotoStudy system and the analysis results, we proposed a few action items to Got It Ops team. <br />
 
 ## Contact
 
 Author: Pham Quoc Hung <br />
-Tableau Public: [@hung.pham5813]([https://github.com/phamquochung279](https://public.tableau.com/app/profile/hung.pham5813))
+Tableau Public: [@hung.pham5813]([https://github.com/phamquochung279](https://public.tableau.com/app/profile/hung.pham5813)) <br />
 Github: [@phamquochung279](https://github.com/phamquochung279) <br />
 Linkedin: [@phamquoc-hung](https://www.linkedin.com/in/pham-quochung/) <br />
