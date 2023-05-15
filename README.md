@@ -30,6 +30,6 @@ Disclaimer: For confidentiality purposes, this analysis is based on an imaginary
 ## Contact
 
 Author: Pham Quoc Hung <br />
-Tableau Public: [@hung.pham5813]([https://github.com/phamquochung279](https://public.tableau.com/app/profile/hung.pham5813)) <br />
+Tableau Public: [@hung.pham5813](https://public.tableau.com/app/profile/hung.pham5813) <br />
 Github: [@phamquochung279](https://github.com/phamquochung279) <br />
 Linkedin: [@phamquoc-hung](https://www.linkedin.com/in/pham-quochung/) <br />
