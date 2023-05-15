@@ -1,6 +1,6 @@
 # Got It Ops Team's Data Analysis Exercise
 
-![image](https://github.com/phamquochung279/Got-It-Ops-Team-Data-Analysis-Exercise/assets/39203225/336785c2-0d74-4b4b-9d03-8f5cd586078c)
+![image](https://pbs.twimg.com/profile_images/1045304807035031552/sxN-iZlr_400x400.jpg)
 
 ## Introduction
 
