@@ -4,11 +4,11 @@
 
 ## Introduction
 
-PhotoStudy is a product created by Got It, Inc. in 2011. The platform allows students to connect with experienced tutors around the world in 1-on-1 sessions to seek help with their homework problems. The Operations team of Got It (hereinafter referred to as Got It Ops team) is tasked with ensuring quality of PhotoStudy tutors' performances using various types of metrics, e.g., ratings given by students for their sessions with tutors.
+PhotoStudy is a product created by Got It, Inc. in 2011. The platform allows students to connect with experienced tutors around the world in 1-on-1 sessions to seek help with their homework problems. The Operations team of Got It (hereinafter referred to as Got It Ops team) is tasked with ensuring quality of PhotoStudy tutors' performances using various types of metrics, e.g., ratings given by students for their tutors.
 
-## Description
+## Problem Statement
 
-In this analysis, we are to investigate the reasons behind an unexpected increase of low ratings (from 4% to 10%) by PhotoStudy users during Week 4 of October 2022 (see Problem Statement sheet in Dataset.xlsx file for more details). <br />
+In this analysis, we are to investigate the reasons behind an unexpected increase of low ratings (from 4% to 10%) from PhotoStudy users during Week 4 of October 2022 (see Problem Statement sheet in Dataset.xlsx file for more details). <br />
 
 Disclaimer: For confidentiality purposes, this analysis is based on an imaginary scenario and a dummy dataset, both provided by Got It Ops team. <br />
 
