@@ -1,7 +1,7 @@
 # Got It Ops Team's Data Analysis Exercise
 
 <p align="center">
-![image](https://github.com/phamquochung279/Got-It-Ops-Team-Data-Analysis-Exercise/assets/39203225/8e71d0a4-f32d-4071-b28f-016ead3fdb9e)
+  <img src="https://github.com/phamquochung279/Got-It-Ops-Team-Data-Analysis-Exercise/assets/39203225/8e71d0a4-f32d-4071-b28f-016ead3fdb9e" alt="PhotoStudy">
 </p>
 
 ## Introduction
