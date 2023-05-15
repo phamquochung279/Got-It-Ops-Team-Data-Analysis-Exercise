@@ -1,6 +1,8 @@
 # Got It Ops Team's Data Analysis Exercise
 
-<p align="center"> ![image](https://pbs.twimg.com/profile_images/1045304807035031552/sxN-iZlr_400x400.jpg) </p>
+<p align="center">
+  <img src="(https://pbs.twimg.com/profile_images/1045304807035031552/sxN-iZlr_400x400.jpg)" />
+</p>
 
 ## Introduction
 
