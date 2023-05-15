@@ -16,13 +16,13 @@ Disclaimer: For confidentiality purposes, this analysis is based on an imaginary
 
 ## Tools Used
 
-1) Microsoft Excel <br />
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br />
 - Utilized pivot tables to categorize expert rankings and ratings for later chart creations <br />
 - Applied functions, i.e., SUMIF, COUNIF, VLOOKUP, etc., to complile data into a Master Data Sheet <br />
 - Created bar charts, scatter charts, pie charts to identify trends & abnormalities in the dataset <br />
 - Conducted correlation analysis with CORREL function and trendline equations on scatter charts <br />
 
-2) Microsoft Powerpoint <br />
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) <br />
 - Initial Hypotheses & Data Requirement: Pre-analysis speculations, and data needed to confirm or falsify each of them. <br />
 - General Analysis: A quick look at tutors' number of problems & total login duration of each week in October. <br />
 - Correlation Analysis: Measuring relationships between Week 4's Average Rating and all variables - Expert Rank, Login Duration, and Total Problems. <br />
