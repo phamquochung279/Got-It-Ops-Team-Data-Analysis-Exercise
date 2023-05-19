@@ -10,7 +10,7 @@ PhotoStudy is a platform created by Got It, Inc. in 2011 that allows students to
 
 ## Problem Statement
 
-In this analysis, we are to investigate the reasons behind an unexpected increase of low ratings (from 4% to 10%) from PhotoStudy users during Week 4 of October 2022 (see Problem Statement sheet in Dataset.xlsx file for more details). <br />
+We are tasked with investigating the reasons behind an unexpected increase of low ratings (from 4% to 10%) from PhotoStudy users during Week 4 of October 2022 (see Problem Statement sheet in Dataset.xlsx file for more details). <br />
 
 Disclaimer: For confidentiality purposes, this analysis is based on an imaginary scenario and a dummy dataset, both provided by Got It Ops team. <br />
 
