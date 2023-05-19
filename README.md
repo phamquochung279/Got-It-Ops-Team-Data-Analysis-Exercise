@@ -22,6 +22,8 @@ Disclaimer: For confidentiality purposes, this analysis is based on an imaginary
 - Created bar charts, scatter charts, pie charts to identify trends & abnormalities in the dataset <br />
 - Conducted correlation analysis with CORREL function and trendline equations on scatter charts <br />
 
+**Note:** Unhide all hidden sheets in the Data Analysis Excel file to see my data aggregation process.
+
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) <br />
 - Initial Hypotheses & Data Requirement: Pre-analysis speculations, and data needed to confirm or falsify each of them. <br />
 - General Analysis: A quick look at tutors' number of problems & total login duration of each week in October. <br />
