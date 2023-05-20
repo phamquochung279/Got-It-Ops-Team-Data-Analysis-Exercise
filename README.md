@@ -6,7 +6,7 @@
 
 ## Introduction
 
-PhotoStudy is a platform created by Got It, Inc. in 2011 that allows students to connect with experienced tutors around the world in 1-on-1 sessions to seek help with their homework problems. The Operations team of Got It (hereinafter referred to as Got It Ops team) is tasked with ensuring quality of PhotoStudy tutors' performances using various types of metrics, e.g., ratings given by students for their tutors.
+PhotoStudy is a platform created by Got It, Inc. in 2011 that allows students to seek help with their homework problems from experienced tutors around the world during 1-on-1 sessions. The Operations team of Got It (hereinafter referred to as Got It Ops team) is in charge of ensuring the quality of PhotoStudy tutors' performances using various types of metrics, e.g., ratings given by students for their tutors.
 
 ## Problem Statement
 
