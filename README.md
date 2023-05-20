@@ -31,9 +31,6 @@ We are tasked with investigating the reasons behind an unexpected increase of lo
 - Further Investigation: Some fascinating insights on Expert Rank and Week 4's Total Problems - the 2 variables most strongly linked to Average Rating. <br />
 - Initiatives: With our understanding of the PhotoStudy system and the analysis results, we proposed a few action items to Got It Ops team. <br />
 
-## Deliverables
-- 
-
 ## Contact
 
 Author: Pham Quoc Hung <br />
