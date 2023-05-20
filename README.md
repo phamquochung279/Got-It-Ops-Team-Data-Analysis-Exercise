@@ -12,12 +12,12 @@ PhotoStudy is a platform created by Got It, Inc. in 2011 that allows students to
 
 We are tasked with investigating the reasons behind an unexpected increase of low ratings (from 4% to 10%) from PhotoStudy users during Week 4 of October 2022 (see Problem Statement sheet in Dataset.xlsx file for more details). <br />
 
-Disclaimer: This analysis is based on a fictional scenario and conducted with a dummy dataset, both provided by Got It Ops team themselves. <br />
+***Disclaimer: This analysis is based on a fictional scenario and conducted with a dummy dataset, both provided by Got It Ops team themselves.*** <br />
 
 ## Tools Used
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br />
-- Utilized pivot tables to categorize expert rankings and ratings for later chart creations <br />
+- Utilized PivotTables to categorize expert rankings and ratings for later chart creations <br />
 - Applied functions, i.e., SUMIF, COUNIF, VLOOKUP, etc., to complile data into a Master Data Sheet <br />
 - Created bar charts, scatter charts, pie charts to identify trends & abnormalities in the dataset <br />
 - Conducted correlation analysis with CORREL function and trendline equations on scatter charts <br />
@@ -30,6 +30,9 @@ Disclaimer: This analysis is based on a fictional scenario and conducted with a 
 - Correlation Analysis: Measuring relationships between Week 4's Average Rating and all variables - Expert Rank, Login Duration, and Total Problems. <br />
 - Further Investigation: Some fascinating insights on Expert Rank and Week 4's Total Problems - the 2 variables most strongly linked to Average Rating. <br />
 - Initiatives: With our understanding of the PhotoStudy system and the analysis results, we proposed a few action items to Got It Ops team. <br />
+
+## Deliverables
+- 
 
 ## Contact
 
